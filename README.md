@@ -1,6 +1,7 @@
-implement web3 application
 
 
-The front-end uses react, and then publishes the smart contract with a testnet nerwork (alchemy)
 
-use alchemy to get the Ropsten test network
+
+github地址：https://github.com/lgxyc/project_web3.0
+youtube地址: https://www.youtube.com/watch?v=Wn_Kb3MR_cU&t=10815s
+
