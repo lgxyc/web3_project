@@ -16,6 +16,7 @@ css 样式的工具是 : tailwindcss
 npm install -D tailwindcss postcss autoprefixernpx
 npx tailwindcss init -p
 ```
+
 - 安装依赖 react 和 ethersjs 
 ```shell
 npm install react-icons ethers
@@ -31,7 +32,11 @@ npm install react-icons ethers
 npm install
 npx hardhat
 ```
-## 测试区块链网站
+
+
+
+# 测试区块链网站
+
 - Ropsten Ethereum Faucet 
 可以通过这个在 metamask 切换到 `Ropsten Tegt Network` 在这个网站获取一些代币 
 
